@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45873454892faa042b07d92100c724cd, type: 3}
+  m_Name: takeuchi
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Sheet1
+    list:
+    - name: "\u4EE3\u3005\u6728\u4E0A\u539F"
+    - name: "\u4EE3\u3005\u6728\u516C\u5712"
+    - name: "\u660E\u6CBB\u795E\u5BAE\u524D"
+    - name: "\u8868\u53C2\u9053"
+    - name: "\u4E43\u6728\u5742"
+    - name: "\u8D64\u5742"
+    - name: "\u56FD\u4F1A\u8B70\u4E8B\u5802\u524D"
+    - name: "\u971E\u30F6\u95A2"
+    - name: "\u65E5\u6BD4\u8C37"
+    - name: "\u4E8C\u91CD\u6A4B\u524D"
+    - name: "\u5927\u624B\u753A"
+    - name: "\u65B0\u5FA1\u8336\u30CE\u6C34"
+    - name: "\u6E6F\u5CF6"
+    - name: "\u6839\u6D25"
+    - name: "\u5343\u99C4\u6728"
+    - name: "\u897F\u65E5\u66AE\u91CC"
+    - name: "\u753A\u5C4B"
+    - name: "\u5317\u5343\u4F4F"
+    - name: "\u7DBE\u702C"
+    - name: "\u5317\u7DBE\u702C"

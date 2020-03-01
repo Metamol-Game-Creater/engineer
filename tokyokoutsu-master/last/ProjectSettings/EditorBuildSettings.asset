@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: 002241d3f7b1d4348a4d8b050994e5bc
+  - enabled: 1
+    path: Assets/Scenes/ExplainScene.unity
+    guid: 7ba75adc5c2941a4187052b02b6bdd8f
+  - enabled: 1
+    path: Assets/Scenes/FormScene.unity
+    guid: a75296f6acee10044a1f59a54e9c35bf
+  - enabled: 1
+    path: Assets/Scenes/ResultScene.unity
+    guid: e588b321efbd53d4688b8276b5d2cc55
+  - enabled: 1
+    path: Assets/Scenes/ConfirmScene.unity
+    guid: 4daca390b88cd1c49ba50376eb18c2f3
+  - enabled: 1
+    path: Assets/Scenes/StampScene.unity
+    guid: ced71674617eba44ab4357401be7c906
+  - enabled: 1
+    path: Assets/Scenes/StampseatScene.unity
+    guid: 390686e4078f3c2468996d70d05fa310
+  - enabled: 1
+    path: Assets/Scenes/LevelUpScene.unity
+    guid: 6ef43f0c42ed6774ca32570c6230f882
+  - enabled: 1
+    path: Assets/Scenes/GuideScene.unity
+    guid: b5bd0a1b8f7344442b6bc49a2331bc44
+  - enabled: 1
+    path: Assets/Scenes/ByeByeScene.unity
+    guid: e5e11a73f37384a49bb502467db1ae72
+  m_configObjects: {}
